@@ -4,7 +4,7 @@ JSON data for [plantGuessr](https://nordegraf.github.io/plantGuessr/). Each file
 | Attribute | Content |
 |---|---|
 | s | Scientific name |
-| c | set of ISO 3361 Alpha 2 country codes of regions this species was observed in |
+| c | set of ISO-3166-1 ALPHA-2 country codes of regions this species was observed in |
 | n | iNaturalist catalouge Numbers of images of this species (max. 10) |
 | r | Corresponding right owners of the images |
 | l | Corresponding licenses for the images |
